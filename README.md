@@ -35,14 +35,13 @@ Repository for research papers on the following topics
 
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593) - **[Cycle GAN]**
 
-- [Progressive Growing of GANs for Improved Quality, Stability, and Variation] (https://arxiv.org/abs/1710.10196) - **[Pro GAN]**
+- [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196) - **[Pro GAN]**
 
 - [Recycle-GAN: Unsupervised Video Retargeting](https://arxiv.org/abs/1808.05174) - **[Recycle-GAN]**
   
-  - [Anycost GANs for Interactive Image Synthesis and Editing]
-  (https://arxiv.org/abs/2103.03243) - **[Anycost GAN]**
+- [Anycost GANs for Interactive Image Synthesis and Editing](https://arxiv.org/abs/2103.03243) - **[Anycost GAN]**
   
-  ### Text-to-image Synthesis
+### Text-to-image Synthesis
 
 - [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1612.03242) - **[Stack GAN]**
 
@@ -62,5 +61,6 @@ Repository for research papers on the following topics
   
 
 # Fairness, Transparency, Interpretability and Explainability
+## For Vision tasks
 - [Learning Deep Features for Discriminative Localization](https://arxiv.org/abs/1610.02391) - **[CAM]**
 - [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391) - **[Grad-CAM]**
